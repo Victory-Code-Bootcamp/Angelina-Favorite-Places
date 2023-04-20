@@ -1,0 +1,12 @@
+body,
+html {
+  background-image: url("/img/pexels-pixabay-38238.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  color: aliceblue;
+  text-align: center;
+  font-size: xx-large;
+  font-style: italic;
+}
