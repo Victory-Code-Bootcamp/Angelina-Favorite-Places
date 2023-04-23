@@ -1,4 +1,6 @@
- <div class="parallax"></div>
+ HTML:
+
+<div class="parallax"></div>
     <div class="row d-flex justify-content-center">
       <div class="card" style="width: 18rem">
         <img src="..." class="card-img-top" alt="..." />
@@ -36,3 +38,23 @@
         </div>
       </div>
     </div>
+
+
+
+
+
+CSS:
+
+.parallax {
+  /* The image used */
+  background-image: url("https://picsum.photos/id/237/600/400");
+
+  /* Set a specific height */
+  height: 100%;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
