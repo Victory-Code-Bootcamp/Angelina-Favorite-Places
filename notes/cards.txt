@@ -75,3 +75,29 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+
+
+
+
+
+
+jumbotron:
+<div class="p-5 mb-4 bg-light rounded-3">
+      <div class="container-fluid py-5 text-center">
+        <h1 class="display-5 fw-bold">My Jumbotron Header</h1>
+        <p class="col fs-4">
+          This is an example of how to create a jumbotron-style header in
+          Bootstrap 5 using utility classes.
+        </p>
+        <button class="btn btn-primary">Learn more</button>
+      </div>
+    </div>
+
+
+
+carousel-indicators
+
+
+class="d-flex align-items-center justify-content-center"
+      style="height: 100vh"
