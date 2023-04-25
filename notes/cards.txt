@@ -58,3 +58,20 @@ CSS:
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+body {
+  background-image: url("https://picsum.photos/id/112/600/400");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
