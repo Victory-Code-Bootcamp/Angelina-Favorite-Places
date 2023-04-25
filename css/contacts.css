@@ -1,6 +1,5 @@
 header,
 section,
-aside,
 footer {
   border-style: none;
   text-align: center;
@@ -63,4 +62,17 @@ footer {
 }
 body {
   background-image: url("/img/idaho/pexels-pixabay-38238.png");
+}
+article {
+  margin: 1rem;
+  padding: 1rem;
+  width: 37rem;
+  height: 30rem;
+}
+aside {
+  border-style: none;
+  text-align: center;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: rgb(230, 224, 216);
 }
