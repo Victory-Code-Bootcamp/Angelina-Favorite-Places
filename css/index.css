@@ -9,3 +9,11 @@ h3 {
   text-align: center;
   color: bisque;
 }
+footer {
+  border-style: none;
+  text-align: center;
+  align-items: end;
+  margin: 1rem;
+  padding: 1rem;
+  background-color: rgb(230, 224, 216);
+}
